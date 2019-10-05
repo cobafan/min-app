@@ -6,4 +6,3 @@ module Hoge
     end
   end
 end
-
