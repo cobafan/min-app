@@ -1,3 +1,3 @@
-require "#{SampleMountableEngine::Engine.root}/app/models/user.rb"
+load "#{SampleMountableEngine::Engine.root}/app/models/user.rb"
 class User < ApplicationRecord
 end
